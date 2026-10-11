@@ -1,6 +1,6 @@
 # 有限域及其应用
 
-**作者：胡四煌**
+**整理与编写：胡四煌**
 
 一部面向课程教学与自主学习的中文交互式教材讲义。从群、环和多项式出发，介绍域扩张与有限域的基本理论，进一步讨论迹、范数、基、割圆多项式、有限域计算及多项式的组合应用。
 
@@ -48,6 +48,21 @@
 浏览器实验可以直接使用。需要修改和运行 Python 实验的读者，可下载仓库中的 [实验 Notebook](appendices/experiments.ipynb)，与 [finitefield.py](appendices/finitefield.py) 放在同一目录，并使用 Python 3 内核从首个代码单元顺序运行。SageMath 示例需要相应的 SageMath 环境。
 
 本地阅读、安装与构建步骤见 [开发与维护说明](DEVELOPMENT.md)。
+
+## 参考资料与编写说明
+
+本讲义由课程讲义整理而成，相关数学内容建立在已有教材、讲义和研究文献的基础上。整理工作包括教学内容的组织、证明与例子的讲解，以及网页交互与计算实验的设计。感谢相关作者对有限域理论与教学的贡献。
+
+以下书目供对照学习与延伸阅读；具体例题、证明或图示的编写来源应在相应位置注明，延伸阅读书目不等同于逐项来源声明。
+
+- **中文代数基础与有限域**：林东岱，《代数学基础与有限域》，第 2 版，高等教育出版社，2022。ISBN：978-7-04-057742-6。[出版社页面](https://xuanshu.hep.com.cn/front/h5Mobile/bookDetails?bookId=61df098c938b7cc2960ee14b)。
+- **中文有限域理论**：冯荣权编著，《有限域基础》，高等教育出版社，2025。ISBN：978-7-04-064377-0。[出版社页面](https://xuanshu.hep.com.cn/front/h5Mobile/bookDetails?bookId=67ae28663e46f5f63ffe38e0)。
+- **中文入门与应用**：冯克勤、廖群英，《有限域及其应用》，大连理工大学出版社，2011。ISBN：978-7-5611-5787-9。[出版社书目](https://www.dutp.cn/index/product/prolist.html?category_id=169&page=14)。
+- **英文课程教材**：Rudolf Lidl and Harald Niederreiter, *Introduction to Finite Fields and their Applications*, 2nd ed., Cambridge University Press, 1994。[出版社页面](https://doi.org/10.1017/CBO9781139172769)。
+- **英文系统参考书**：Rudolf Lidl and Harald Niederreiter, *Finite Fields*, 2nd ed., Cambridge University Press, 1996。[出版社页面](https://doi.org/10.1017/CBO9780511525926)。
+- **进阶专题手册**：Gary L. Mullen and Daniel Panario (eds.), *Handbook of Finite Fields*, Chapman and Hall/CRC, 2013。[编者页面](https://people.math.carleton.ca/~daniel/hff/)。
+
+详细阅读建议、章节对应、公开课程讲义与论文见 [参考文献与延伸阅读](appendices/references.md)（[在线阅读](https://husihuang.github.io/finite-fields-book/appendices/references.html)）。
 
 ## 勘误与建议
 

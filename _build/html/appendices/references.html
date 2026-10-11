@@ -408,6 +408,10 @@
             </div>
             <nav aria-label="Page">
                 <ul class="pst-show_toc_level nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">中文教材</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">英文教材与参考书</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">按本讲义内容选择阅读</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">公开讲义、论文与计算文档</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#sagemath">SageMath 扩展实验</a></li>
 </ul>
             </nav>
@@ -422,13 +426,67 @@
                   
   <section class="tex2jax_ignore mathjax_ignore" id="id1">
 <h1>参考文献与延伸阅读<a class="headerlink" href="#id1" title="Link to this heading">#</a></h1>
-<p>以下文献用于深入学习有限域理论、多项式方法与计算工具。</p>
+<p>本讲义由课程讲义整理而成，相关数学内容建立在已有教材、讲义与研究文献的基础上。感谢相关作者对有限域理论与教学的贡献。以下书目提供对照学习与延伸阅读的入口；列入书目不表示本讲义逐项取材于该书。具体采用的例题、证明、图示或程序，应在相应位置注明来源及适用版本。</p>
+<section id="id2">
+<h2>中文教材<a class="headerlink" href="#id2" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>林东岱，《代数学基础与有限域》，第 2 版，高等教育出版社，2022。ISBN：978-7-04-057742-6。<a class="reference external" href="https://xuanshu.hep.com.cn/front/h5Mobile/bookDetails?bookId=61df098c938b7cc2960ee14b">出版社页面</a>。从代数基础与有限域结构出发，进一步介绍有限域上的多项式、特征与指数和、Galois 环、离散对数、椭圆曲线、伪随机序列及编码与密码应用。适合系统伴读，并为后续应用专题提供入口。</p></li>
+<li><p>冯荣权编著，《有限域基础》，高等教育出版社，2025。ISBN：978-7-04-064377-0。<a class="reference external" href="https://xuanshu.hep.com.cn/front/h5Mobile/bookDetails?bookId=67ae28663e46f5f63ffe38e0">出版社页面</a>。包括代数基础、有限域的存在唯一性与元素表示、迹与范数、对偶基与正规基、分圆多项式、不可约与置换多项式、求根与分解算法及指数和。适合对照本讲义的有限域结构、基与多项式部分，并继续学习相关专题。</p></li>
+<li><p>冯克勤、廖群英，《有限域及其应用》，大连理工大学出版社，2011。ISBN：978-7-5611-5787-9。<a class="reference external" href="https://www.dutp.cn/index/product/prolist.html?category_id=169&amp;amp;page=14">出版社书目</a>。适合作为中文伴读，联系有限域理论与组合设计、纠错码和密码等应用。另有 2023 年出版版本，ISBN：978-7-5685-4131-2，见<a class="reference external" href="https://opac.sicau.edu.cn/opac/book/9ac18c2373322d12aaeba0722a6900d9">图书馆书目</a>；引用页码时请注明所用版本。</p></li>
+</ol>
+</section>
+<section id="id3">
+<h2>英文教材与参考书<a class="headerlink" href="#id3" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>Rudolf Lidl and Harald Niederreiter, <em>Introduction to Finite Fields and their Applications</em>, 2nd ed., Cambridge University Press, 1994。<a class="reference external" href="https://doi.org/10.1017/CBO9781139172769">出版社页面</a>。以教学为导向，包含代数基础、有限域结构、多项式及编码、密码等应用，适合作为系统学习的伴读教材。</p></li>
+<li><p>Rudolf Lidl and Harald Niederreiter, <em>Finite Fields</em>, 2nd ed., Encyclopedia of Mathematics and its Applications, vol. 20, Cambridge University Press, 1996。<a class="reference external" href="https://doi.org/10.1017/CBO9780511525926">出版社页面</a>。覆盖有限域结构、多项式及其分解、指数和、方程、置换多项式和线性递归序列，适合查阅较完整的理论与文献。此处年份按出版社页面所列纸质版出版年记录；引用其他印次时以所用书的版权页为准。</p></li>
+<li><p>Gary L. Mullen and Daniel Panario (eds.), <em>Handbook of Finite Fields</em>, Chapman and Hall/CRC, 2013。<a class="reference external" href="https://people.math.carleton.ca/~daniel/hff/">编者页面与勘误入口</a>。适合进阶专题查阅，包含不可约与本原多项式、正规基、算法、组合应用、编码与密码等内容，初读时可按主题选用。</p></li>
+</ol>
+</section>
+<section id="id4">
+<h2>按本讲义内容选择阅读<a class="headerlink" href="#id4" title="Link to this heading">#</a></h2>
+<p>下表是主题对应建议，不表示章节之间逐页对应。</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>本讲义内容</p></th>
+<th class="head"><p>建议资料</p></th>
+<th class="head"><p>阅读重点</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>第 1–7 章：群、环与多项式</p></td>
+<td><p>林东岱的代数基础部分；Lidl–Niederreiter 入门教材的 Algebraic Foundations 部分</p></td>
+<td><p>补足群、环、理想与多项式的基础</p></td>
+</tr>
+<tr class="row-odd"><td><p>第 8–12 章：域扩张与有限域</p></td>
+<td><p>林东岱；冯荣权第 1–2 章；冯克勤–廖群英；Lidl–Niederreiter；Milne</p></td>
+<td><p>分裂域、有限域的存在与唯一性、子域、本原元和共轭</p></td>
+</tr>
+<tr class="row-even"><td><p>第 13–15 章：自同构、迹与范数、基</p></td>
+<td><p>冯荣权第 3–4 章；Lidl–Niederreiter 的 <em>Finite Fields</em>；Milne；<em>Handbook</em> 的 Bases 部分</p></td>
+<td><p>核对基域与可分性条件，深入学习对偶基、正规基与分圆多项式</p></td>
+</tr>
+<tr class="row-odd"><td><p>第 16 章：表示与计算</p></td>
+<td><p>冯荣权第 2、4、7 章；<em>Handbook</em> 的 Algorithms 部分；SageMath 文档</p></td>
+<td><p>域模型、不可约多项式、元素表示及计算方法</p></td>
+</tr>
+<tr class="row-even"><td><p>第 17–19 章：多项式的组合应用</p></td>
+<td><p>Alon 原论文；<em>Handbook</em> 的组合应用部分</p></td>
+<td><p>组合零点定理的原始论证与进一步应用；随机检验须注意采样域和次数条件</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="id5">
+<h2>公开讲义、论文与计算文档<a class="headerlink" href="#id5" title="Link to this heading">#</a></h2>
 <ol class="arabic simple">
 <li><p>Noga Alon, <em>Combinatorial Nullstellensatz</em>, Combinatorics, Probability and Computing 8 (1999), 7–29。<a class="reference external" href="https://web.math.princeton.edu/~nalon/PDFS/null2.pdf">作者论文</a>。可结合组合零点定理与加法组合章节，阅读有限网格消失理想和系数判别。</p></li>
 <li><p><a class="reference external" href="https://doc.sagemath.org/html/en/reference/finite_rings/sage/rings/finite_rings/finite_field_constructor.html">SageMath 有限域构造器官方文档</a>。比较不同不可约模多项式和域元素表示。</p></li>
 <li><p><a class="reference external" href="https://doc.sagemath.org/html/en/reference/finite_rings/sage/rings/finite_rings/finite_field_base.html">SageMath 有限域基类官方文档</a>。继续学习基、对偶基与有限域 API。</p></li>
 <li><p>J. S. Milne, <em>Fields and Galois Theory</em>, v5.10 (2022)。<a class="reference external" href="https://www.jmilne.org/math/CourseNotes/FT.pdf">作者课程讲义</a>。用于对照域扩张、有限域、正规基、迹和范数的条件与证明。</p></li>
 </ol>
+</section>
 <section id="sagemath">
 <h2>SageMath 扩展实验<a class="headerlink" href="#sagemath" title="Link to this heading">#</a></h2>
 <p>以下示例<strong>需要 SageMath 内核</strong>，不由附带的标准 Python Notebook 执行：</p>
@@ -482,6 +540,10 @@
   </div>
   <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
     <ul class="pst-show_toc_level nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">中文教材</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">英文教材与参考书</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">按本讲义内容选择阅读</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">公开讲义、论文与计算文档</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#sagemath">SageMath 扩展实验</a></li>
 </ul>
   </nav></div>
