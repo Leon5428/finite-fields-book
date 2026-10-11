@@ -207,4 +207,40 @@ html[data-theme=dark] .subfield-edge.is-related { stroke:#69c9c8; }
 .export-notes:focus-visible { outline:3px solid #007d82; outline-offset:3px; }
 .chapter-goals { margin:18px 0; }
 html[data-theme=dark] .chapter-note { background:#202a30; color:#e0e8ed; }
+/* Dark admonitions must not inherit the dark ink of a light statement frame. */
+html[data-theme=dark] .admonition:not(.reading-note) {
+  color: var(--pst-color-text-base, #e0e8ed);
+}
+html[data-theme=dark] .admonition:not(.reading-note) a {
+  color: var(--pst-color-link, #83ced1);
+}
+html[data-theme=dark] .admonition:not(.reading-note) .source-label,
+html[data-theme=dark] .admonition:not(.reading-note) .statement-title {
+  color: inherit;
+}
+/* Legacy calculators have their own light surfaces; switch ink and surface together. */
+html[data-theme=dark] .ff-widget {
+  color: var(--pst-color-text-base, #e0e8ed);
+  background: var(--pst-color-surface, #202a30);
+}
+html[data-theme=dark] .ff-widget pre,
+html[data-theme=dark] .ff-widget input,
+html[data-theme=dark] .ff-widget select {
+  color: var(--pst-color-text-base, #e0e8ed);
+  background: var(--pst-color-background, #121212);
+}
+html[data-theme=dark] .lesson-error { color: #ffada3; }
+.bd-article input::placeholder,
+.bd-article textarea::placeholder {
+  color: var(--pst-color-text-muted, #64748b);
+  opacity: 1;
+}
 @media print { .export-notes,.chapter-note { display:none; } }
+.ff-sidebar-close { display:none; }
+dialog[open] .ff-sidebar-close {
+  display:block;align-self:flex-end;margin:8px 12px;padding:10px 12px;
+  min-height:44px;border:1px solid var(--pst-color-border,#ccd9dc);border-radius:6px;
+  color:var(--pst-color-text-base,#12384b);background:var(--pst-color-background,#fff);
+  font:inherit;cursor:pointer;
+}
+.sidebar-toggle:focus-visible,.ff-sidebar-close:focus-visible { outline:3px solid #d48d22;outline-offset:2px; }

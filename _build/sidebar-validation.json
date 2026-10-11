@@ -1,0 +1,18 @@
+{
+  "pages": 25,
+  "themes": 2,
+  "toggleCases": 98,
+  "touch": true,
+  "outsideClose": true,
+  "escapeClose": true,
+  "chapterNavigation": true,
+  "widths": [
+    320,
+    390,
+    768,
+    1280
+  ],
+  "resize": true,
+  "desktopCollapse": true,
+  "errors": []
+}

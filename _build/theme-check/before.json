@@ -1,0 +1,1242 @@
+{
+  "date": "2026-10-11",
+  "pages": [
+    {
+      "path": "intro",
+      "system": "light",
+      "theme": "dark",
+      "checked": 47,
+      "min": 5.716478703343015,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "intro",
+      "system": "light",
+      "theme": "light",
+      "checked": 47,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c01",
+      "system": "light",
+      "theme": "dark",
+      "checked": 760,
+      "min": 1.0166659479357016,
+      "failures": [
+        {
+          "kind": "text",
+          "text": "探索元素的阶与生成元",
+          "tag": "H3",
+          "class": "",
+          "color": "rgb(243, 244, 245)",
+          "background": [
+            241,
+            247,
+            247
+          ],
+          "ratio": 1.0166659479357016
+        },
+        {
+          "kind": "text",
+          "text": "模 6 加法群，群的阶 = 6\n累加轨道：0 → 2 → 4 → 0\n生成子群：{0, 2, 4}\n元素 2 的阶 = 3\n加法逆元 = 4\n2 不是整个群的生成元。",
+          "tag": "PRE",
+          "class": "cyclic-result",
+          "color": "rgb(206, 214, 221)",
+          "background": [
+            255,
+            255,
+            255
+          ],
+          "ratio": 1.4698593963829842
+        }
+      ],
+      "groups": {
+        "H3::rgb(243, 244, 245):241,247,247": 1,
+        "PRE:cyclic-result:rgb(206, 214, 221):255,255,255": 1
+      }
+    },
+    {
+      "path": "chapters/c01",
+      "system": "light",
+      "theme": "light",
+      "checked": 760,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c02",
+      "system": "light",
+      "theme": "dark",
+      "checked": 293,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c02",
+      "system": "light",
+      "theme": "light",
+      "checked": 293,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c03",
+      "system": "light",
+      "theme": "dark",
+      "checked": 303,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c03",
+      "system": "light",
+      "theme": "light",
+      "checked": 303,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c04",
+      "system": "light",
+      "theme": "dark",
+      "checked": 501,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c04",
+      "system": "light",
+      "theme": "light",
+      "checked": 501,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c05",
+      "system": "light",
+      "theme": "dark",
+      "checked": 289,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c05",
+      "system": "light",
+      "theme": "light",
+      "checked": 289,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c06",
+      "system": "light",
+      "theme": "dark",
+      "checked": 158,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c06",
+      "system": "light",
+      "theme": "light",
+      "checked": 158,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c07",
+      "system": "light",
+      "theme": "dark",
+      "checked": 255,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c07",
+      "system": "light",
+      "theme": "light",
+      "checked": 255,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c08",
+      "system": "light",
+      "theme": "dark",
+      "checked": 343,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c08",
+      "system": "light",
+      "theme": "light",
+      "checked": 343,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c09",
+      "system": "light",
+      "theme": "dark",
+      "checked": 663,
+      "min": 4.52037290710165,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c09",
+      "system": "light",
+      "theme": "light",
+      "checked": 663,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10",
+      "system": "light",
+      "theme": "dark",
+      "checked": 333,
+      "min": 4.93445699908922,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10",
+      "system": "light",
+      "theme": "light",
+      "checked": 333,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c11",
+      "system": "light",
+      "theme": "dark",
+      "checked": 343,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c11",
+      "system": "light",
+      "theme": "light",
+      "checked": 343,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c12",
+      "system": "light",
+      "theme": "dark",
+      "checked": 265,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c12",
+      "system": "light",
+      "theme": "light",
+      "checked": 265,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c13",
+      "system": "light",
+      "theme": "dark",
+      "checked": 457,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c13",
+      "system": "light",
+      "theme": "light",
+      "checked": 457,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c14",
+      "system": "light",
+      "theme": "dark",
+      "checked": 244,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c14",
+      "system": "light",
+      "theme": "light",
+      "checked": 244,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c15",
+      "system": "light",
+      "theme": "dark",
+      "checked": 387,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c15",
+      "system": "light",
+      "theme": "light",
+      "checked": 387,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c16",
+      "system": "light",
+      "theme": "dark",
+      "checked": 481,
+      "min": 1.0166659479357016,
+      "failures": [
+        {
+          "kind": "text",
+          "text": "有限域编码计算器",
+          "tag": "H3",
+          "class": "",
+          "color": "rgb(243, 244, 245)",
+          "background": [
+            241,
+            247,
+            247
+          ],
+          "ratio": 1.0166659479357016
+        },
+        {
+          "kind": "text",
+          "text": "GF(2^4)，模多项式 x^4 + x + 1\na = 3 = x + 1\nb = 7 = x^2 + x + 1\na + b = 4 = x^2\na × b = 9 ",
+          "tag": "PRE",
+          "class": "result",
+          "color": "rgb(206, 214, 221)",
+          "background": [
+            255,
+            255,
+            255
+          ],
+          "ratio": 1.4698593963829842
+        }
+      ],
+      "groups": {
+        "H3::rgb(243, 244, 245):241,247,247": 1,
+        "PRE:result:rgb(206, 214, 221):255,255,255": 1
+      }
+    },
+    {
+      "path": "chapters/c16",
+      "system": "light",
+      "theme": "light",
+      "checked": 481,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c17",
+      "system": "light",
+      "theme": "dark",
+      "checked": 176,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c17",
+      "system": "light",
+      "theme": "light",
+      "checked": 176,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c18",
+      "system": "light",
+      "theme": "dark",
+      "checked": 284,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c18",
+      "system": "light",
+      "theme": "light",
+      "checked": 284,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c19",
+      "system": "light",
+      "theme": "dark",
+      "checked": 188,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c19",
+      "system": "light",
+      "theme": "light",
+      "checked": 188,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/source",
+      "system": "light",
+      "theme": "dark",
+      "checked": 146,
+      "min": 8.923888010096393,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/source",
+      "system": "light",
+      "theme": "light",
+      "checked": 146,
+      "min": 13.116860643909634,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/algorithms",
+      "system": "light",
+      "theme": "dark",
+      "checked": 1014,
+      "min": 5.716478703343015,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/algorithms",
+      "system": "light",
+      "theme": "light",
+      "checked": 1014,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/experiments",
+      "system": "light",
+      "theme": "dark",
+      "checked": 1582,
+      "min": 7.956703589116505,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/experiments",
+      "system": "light",
+      "theme": "light",
+      "checked": 1582,
+      "min": 6.765251839832702,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/references",
+      "system": "light",
+      "theme": "dark",
+      "checked": 98,
+      "min": 5.716478703343015,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/references",
+      "system": "light",
+      "theme": "light",
+      "checked": 98,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "knowledge",
+      "system": "light",
+      "theme": "dark",
+      "checked": 179,
+      "min": 4.015208066469367,
+      "failures": [
+        {
+          "kind": "text",
+          "text": "学习导航 · 自我评估",
+          "tag": "P",
+          "class": "kg-eyebrow",
+          "color": "rgb(40, 122, 176)",
+          "background": [
+            18,
+            18,
+            18
+          ],
+          "ratio": 4.015208066469367
+        }
+      ],
+      "groups": {
+        "P:kg-eyebrow:rgb(40, 122, 176):18,18,18": 1
+      }
+    },
+    {
+      "path": "knowledge",
+      "system": "light",
+      "theme": "light",
+      "checked": 179,
+      "min": 4.665676994261816,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "knowledge/node-trace",
+      "system": "light",
+      "theme": "dark",
+      "checked": 261,
+      "min": 2.811352063171473,
+      "failures": [
+        {
+          "kind": "text",
+          "text": "学习导航 · 自我评估",
+          "tag": "P",
+          "class": "kg-eyebrow",
+          "color": "rgb(40, 122, 176)",
+          "background": [
+            18,
+            18,
+            18
+          ],
+          "ratio": 4.015208066469367
+        },
+        {
+          "kind": "text",
+          "text": "第 13 章 · 定义",
+          "tag": "P",
+          "class": "kg-eyebrow",
+          "color": "rgb(40, 122, 176)",
+          "background": [
+            41,
+            49,
+            61
+          ],
+          "ratio": 2.811352063171473
+        },
+        {
+          "kind": "text",
+          "text": "阅读正文 ↗",
+          "tag": "A",
+          "class": "",
+          "color": "rgb(82, 143, 228)",
+          "background": [
+            41,
+            49,
+            61
+          ],
+          "ratio": 4.002540822461207
+        }
+      ],
+      "groups": {
+        "P:kg-eyebrow:rgb(40, 122, 176):18,18,18": 1,
+        "P:kg-eyebrow:rgb(40, 122, 176):41,49,61": 1,
+        "A::rgb(82, 143, 228):41,49,61": 1
+      }
+    },
+    {
+      "path": "knowledge/study",
+      "system": "light",
+      "theme": "dark",
+      "checked": 76,
+      "min": 2.811352063171473,
+      "failures": [
+        {
+          "kind": "text",
+          "text": "学习导航 · 自我评估",
+          "tag": "P",
+          "class": "kg-eyebrow",
+          "color": "rgb(40, 122, 176)",
+          "background": [
+            18,
+            18,
+            18
+          ],
+          "ratio": 4.015208066469367
+        },
+        {
+          "kind": "text",
+          "text": "0/134",
+          "tag": "STRONG",
+          "class": "",
+          "color": "rgb(40, 122, 176)",
+          "background": [
+            41,
+            49,
+            61
+          ],
+          "ratio": 2.811352063171473
+        }
+      ],
+      "groups": {
+        "P:kg-eyebrow:rgb(40, 122, 176):18,18,18": 1,
+        "STRONG::rgb(40, 122, 176):41,49,61": 4
+      }
+    },
+    {
+      "path": "intro",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 47,
+      "min": 5.716478703343015,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "intro",
+      "system": "dark",
+      "theme": "light",
+      "checked": 47,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c01",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 760,
+      "min": 1.4698593963829842,
+      "failures": [
+        {
+          "kind": "text",
+          "text": "探索元素的阶与生成元",
+          "tag": "H3",
+          "class": "",
+          "color": "rgb(131, 206, 209)",
+          "background": [
+            241,
+            247,
+            247
+          ],
+          "ratio": 1.6550359374516614
+        },
+        {
+          "kind": "text",
+          "text": "模 6 加法群，群的阶 = 6\n累加轨道：0 → 2 → 4 → 0\n生成子群：{0, 2, 4}\n元素 2 的阶 = 3\n加法逆元 = 4\n2 不是整个群的生成元。",
+          "tag": "PRE",
+          "class": "cyclic-result",
+          "color": "rgb(206, 214, 221)",
+          "background": [
+            255,
+            255,
+            255
+          ],
+          "ratio": 1.4698593963829842
+        }
+      ],
+      "groups": {
+        "H3::rgb(131, 206, 209):241,247,247": 1,
+        "PRE:cyclic-result:rgb(206, 214, 221):255,255,255": 1
+      }
+    },
+    {
+      "path": "chapters/c01",
+      "system": "dark",
+      "theme": "light",
+      "checked": 760,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c02",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 293,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c02",
+      "system": "dark",
+      "theme": "light",
+      "checked": 293,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c03",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 303,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c03",
+      "system": "dark",
+      "theme": "light",
+      "checked": 303,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c04",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 501,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c04",
+      "system": "dark",
+      "theme": "light",
+      "checked": 501,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c05",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 289,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c05",
+      "system": "dark",
+      "theme": "light",
+      "checked": 289,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c06",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 158,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c06",
+      "system": "dark",
+      "theme": "light",
+      "checked": 158,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c07",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 255,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c07",
+      "system": "dark",
+      "theme": "light",
+      "checked": 255,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c08",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 343,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c08",
+      "system": "dark",
+      "theme": "light",
+      "checked": 343,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c09",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 663,
+      "min": 4.52037290710165,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c09",
+      "system": "dark",
+      "theme": "light",
+      "checked": 663,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 333,
+      "min": 4.93445699908922,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10",
+      "system": "dark",
+      "theme": "light",
+      "checked": 333,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c11",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 343,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c11",
+      "system": "dark",
+      "theme": "light",
+      "checked": 343,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c12",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 265,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c12",
+      "system": "dark",
+      "theme": "light",
+      "checked": 265,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c13",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 457,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c13",
+      "system": "dark",
+      "theme": "light",
+      "checked": 457,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c14",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 244,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c14",
+      "system": "dark",
+      "theme": "light",
+      "checked": 244,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c15",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 387,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c15",
+      "system": "dark",
+      "theme": "light",
+      "checked": 387,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c16",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 481,
+      "min": 1.4698593963829842,
+      "failures": [
+        {
+          "kind": "text",
+          "text": "有限域编码计算器",
+          "tag": "H3",
+          "class": "",
+          "color": "rgb(131, 206, 209)",
+          "background": [
+            241,
+            247,
+            247
+          ],
+          "ratio": 1.6550359374516614
+        },
+        {
+          "kind": "text",
+          "text": "GF(2^4)，模多项式 x^4 + x + 1\na = 3 = x + 1\nb = 7 = x^2 + x + 1\na + b = 4 = x^2\na × b = 9 ",
+          "tag": "PRE",
+          "class": "result",
+          "color": "rgb(206, 214, 221)",
+          "background": [
+            255,
+            255,
+            255
+          ],
+          "ratio": 1.4698593963829842
+        }
+      ],
+      "groups": {
+        "H3::rgb(131, 206, 209):241,247,247": 1,
+        "PRE:result:rgb(206, 214, 221):255,255,255": 1
+      }
+    },
+    {
+      "path": "chapters/c16",
+      "system": "dark",
+      "theme": "light",
+      "checked": 481,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c17",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 176,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c17",
+      "system": "dark",
+      "theme": "light",
+      "checked": 176,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c18",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 284,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c18",
+      "system": "dark",
+      "theme": "light",
+      "checked": 284,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c19",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 188,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c19",
+      "system": "dark",
+      "theme": "light",
+      "checked": 188,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/source",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 146,
+      "min": 8.923888010096393,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/source",
+      "system": "dark",
+      "theme": "light",
+      "checked": 146,
+      "min": 13.116860643909634,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/algorithms",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 1014,
+      "min": 5.716478703343015,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/algorithms",
+      "system": "dark",
+      "theme": "light",
+      "checked": 1014,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/experiments",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 1582,
+      "min": 7.956703589116505,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/experiments",
+      "system": "dark",
+      "theme": "light",
+      "checked": 1582,
+      "min": 6.765251839832702,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/references",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 98,
+      "min": 5.716478703343015,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/references",
+      "system": "dark",
+      "theme": "light",
+      "checked": 98,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "knowledge",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 179,
+      "min": 4.015208066469367,
+      "failures": [
+        {
+          "kind": "text",
+          "text": "学习导航 · 自我评估",
+          "tag": "P",
+          "class": "kg-eyebrow",
+          "color": "rgb(40, 122, 176)",
+          "background": [
+            18,
+            18,
+            18
+          ],
+          "ratio": 4.015208066469367
+        }
+      ],
+      "groups": {
+        "P:kg-eyebrow:rgb(40, 122, 176):18,18,18": 1
+      }
+    },
+    {
+      "path": "knowledge",
+      "system": "dark",
+      "theme": "light",
+      "checked": 179,
+      "min": 4.665676994261816,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "knowledge/node-trace",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 261,
+      "min": 2.811352063171473,
+      "failures": [
+        {
+          "kind": "text",
+          "text": "学习导航 · 自我评估",
+          "tag": "P",
+          "class": "kg-eyebrow",
+          "color": "rgb(40, 122, 176)",
+          "background": [
+            18,
+            18,
+            18
+          ],
+          "ratio": 4.015208066469367
+        },
+        {
+          "kind": "text",
+          "text": "第 13 章 · 定义",
+          "tag": "P",
+          "class": "kg-eyebrow",
+          "color": "rgb(40, 122, 176)",
+          "background": [
+            41,
+            49,
+            61
+          ],
+          "ratio": 2.811352063171473
+        },
+        {
+          "kind": "text",
+          "text": "阅读正文 ↗",
+          "tag": "A",
+          "class": "",
+          "color": "rgb(82, 143, 228)",
+          "background": [
+            41,
+            49,
+            61
+          ],
+          "ratio": 4.002540822461207
+        }
+      ],
+      "groups": {
+        "P:kg-eyebrow:rgb(40, 122, 176):18,18,18": 1,
+        "P:kg-eyebrow:rgb(40, 122, 176):41,49,61": 1,
+        "A::rgb(82, 143, 228):41,49,61": 1
+      }
+    },
+    {
+      "path": "knowledge/study",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 76,
+      "min": 2.811352063171473,
+      "failures": [
+        {
+          "kind": "text",
+          "text": "学习导航 · 自我评估",
+          "tag": "P",
+          "class": "kg-eyebrow",
+          "color": "rgb(40, 122, 176)",
+          "background": [
+            18,
+            18,
+            18
+          ],
+          "ratio": 4.015208066469367
+        },
+        {
+          "kind": "text",
+          "text": "0/134",
+          "tag": "STRONG",
+          "class": "",
+          "color": "rgb(40, 122, 176)",
+          "background": [
+            41,
+            49,
+            61
+          ],
+          "ratio": 2.811352063171473
+        }
+      ],
+      "groups": {
+        "P:kg-eyebrow:rgb(40, 122, 176):18,18,18": 1,
+        "STRONG::rgb(40, 122, 176):41,49,61": 4
+      }
+    }
+  ],
+  "errors": []
+}

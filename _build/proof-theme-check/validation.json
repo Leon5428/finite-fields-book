@@ -1,0 +1,615 @@
+{
+  "date": "2026-10-11",
+  "pages": [
+    {
+      "chapter": "c01",
+      "system": "light",
+      "theme": "light",
+      "checked": 29,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c01",
+      "system": "light",
+      "theme": "dark",
+      "checked": 29,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c02",
+      "system": "light",
+      "theme": "light",
+      "checked": 17,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c02",
+      "system": "light",
+      "theme": "dark",
+      "checked": 17,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c03",
+      "system": "light",
+      "theme": "light",
+      "checked": 25,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c03",
+      "system": "light",
+      "theme": "dark",
+      "checked": 25,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c04",
+      "system": "light",
+      "theme": "light",
+      "checked": 11,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c04",
+      "system": "light",
+      "theme": "dark",
+      "checked": 11,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c05",
+      "system": "light",
+      "theme": "light",
+      "checked": 22,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c05",
+      "system": "light",
+      "theme": "dark",
+      "checked": 22,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c06",
+      "system": "light",
+      "theme": "light",
+      "checked": 24,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c06",
+      "system": "light",
+      "theme": "dark",
+      "checked": 24,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c07",
+      "system": "light",
+      "theme": "light",
+      "checked": 13,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c07",
+      "system": "light",
+      "theme": "dark",
+      "checked": 13,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c08",
+      "system": "light",
+      "theme": "light",
+      "checked": 17,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c08",
+      "system": "light",
+      "theme": "dark",
+      "checked": 17,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c09",
+      "system": "light",
+      "theme": "light",
+      "checked": 177,
+      "min": 4.78455119452093,
+      "failures": []
+    },
+    {
+      "chapter": "c09",
+      "system": "light",
+      "theme": "dark",
+      "checked": 177,
+      "min": 4.52037290710165,
+      "failures": []
+    },
+    {
+      "chapter": "c10",
+      "system": "light",
+      "theme": "light",
+      "checked": 28,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c10",
+      "system": "light",
+      "theme": "dark",
+      "checked": 28,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c11",
+      "system": "light",
+      "theme": "light",
+      "checked": 108,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c11",
+      "system": "light",
+      "theme": "dark",
+      "checked": 108,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c12",
+      "system": "light",
+      "theme": "light",
+      "checked": 18,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c12",
+      "system": "light",
+      "theme": "dark",
+      "checked": 18,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c13",
+      "system": "light",
+      "theme": "light",
+      "checked": 14,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c13",
+      "system": "light",
+      "theme": "dark",
+      "checked": 14,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c14",
+      "system": "light",
+      "theme": "light",
+      "checked": 26,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c14",
+      "system": "light",
+      "theme": "dark",
+      "checked": 26,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c15",
+      "system": "light",
+      "theme": "light",
+      "checked": 7,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c15",
+      "system": "light",
+      "theme": "dark",
+      "checked": 7,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c16",
+      "system": "light",
+      "theme": "light",
+      "checked": 17,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c16",
+      "system": "light",
+      "theme": "dark",
+      "checked": 17,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c17",
+      "system": "light",
+      "theme": "light",
+      "checked": 17,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c17",
+      "system": "light",
+      "theme": "dark",
+      "checked": 17,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c18",
+      "system": "light",
+      "theme": "light",
+      "checked": 60,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c18",
+      "system": "light",
+      "theme": "dark",
+      "checked": 60,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c19",
+      "system": "light",
+      "theme": "light",
+      "checked": 27,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c19",
+      "system": "light",
+      "theme": "dark",
+      "checked": 27,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c01",
+      "system": "dark",
+      "theme": "light",
+      "checked": 29,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c01",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 29,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c02",
+      "system": "dark",
+      "theme": "light",
+      "checked": 17,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c02",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 17,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c03",
+      "system": "dark",
+      "theme": "light",
+      "checked": 25,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c03",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 25,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c04",
+      "system": "dark",
+      "theme": "light",
+      "checked": 11,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c04",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 11,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c05",
+      "system": "dark",
+      "theme": "light",
+      "checked": 22,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c05",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 22,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c06",
+      "system": "dark",
+      "theme": "light",
+      "checked": 24,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c06",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 24,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c07",
+      "system": "dark",
+      "theme": "light",
+      "checked": 13,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c07",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 13,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c08",
+      "system": "dark",
+      "theme": "light",
+      "checked": 17,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c08",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 17,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c09",
+      "system": "dark",
+      "theme": "light",
+      "checked": 177,
+      "min": 4.78455119452093,
+      "failures": []
+    },
+    {
+      "chapter": "c09",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 177,
+      "min": 4.52037290710165,
+      "failures": []
+    },
+    {
+      "chapter": "c10",
+      "system": "dark",
+      "theme": "light",
+      "checked": 28,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c10",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 28,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c11",
+      "system": "dark",
+      "theme": "light",
+      "checked": 108,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c11",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 108,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c12",
+      "system": "dark",
+      "theme": "light",
+      "checked": 18,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c12",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 18,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c13",
+      "system": "dark",
+      "theme": "light",
+      "checked": 14,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c13",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 14,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c14",
+      "system": "dark",
+      "theme": "light",
+      "checked": 26,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c14",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 26,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c15",
+      "system": "dark",
+      "theme": "light",
+      "checked": 7,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c15",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 7,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c16",
+      "system": "dark",
+      "theme": "light",
+      "checked": 17,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c16",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 17,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c17",
+      "system": "dark",
+      "theme": "light",
+      "checked": 17,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c17",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 17,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c18",
+      "system": "dark",
+      "theme": "light",
+      "checked": 60,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c18",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 60,
+      "min": 10.078423525495461,
+      "failures": []
+    },
+    {
+      "chapter": "c19",
+      "system": "dark",
+      "theme": "light",
+      "checked": 27,
+      "min": 14.813865519676826,
+      "failures": []
+    },
+    {
+      "chapter": "c19",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 27,
+      "min": 10.078423525495461,
+      "failures": []
+    }
+  ],
+  "errors": [],
+  "mobile": true
+}

@@ -1,0 +1,2382 @@
+{
+  "date": "2026-10-11",
+  "pages": [
+    {
+      "path": "intro",
+      "system": "light",
+      "theme": "dark",
+      "checked": 47,
+      "min": 5.716478703343015,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "intro",
+      "system": "light",
+      "theme": "light",
+      "checked": 47,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c01",
+      "system": "light",
+      "theme": "dark",
+      "checked": 761,
+      "min": 4.93445699908922,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c01",
+      "system": "light",
+      "theme": "light",
+      "checked": 761,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c01/quiz-answer",
+      "system": "light",
+      "theme": "dark",
+      "checked": 762,
+      "min": 4.93445699908922,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c01/quiz-answer",
+      "system": "light",
+      "theme": "light",
+      "checked": 762,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c01/reflection",
+      "system": "light",
+      "theme": "dark",
+      "checked": 762,
+      "min": 4.93445699908922,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c01/reflection",
+      "system": "light",
+      "theme": "light",
+      "checked": 762,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c02",
+      "system": "light",
+      "theme": "dark",
+      "checked": 294,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c02",
+      "system": "light",
+      "theme": "light",
+      "checked": 294,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c02/quiz-answer",
+      "system": "light",
+      "theme": "dark",
+      "checked": 295,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c02/quiz-answer",
+      "system": "light",
+      "theme": "light",
+      "checked": 295,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c02/input-error",
+      "system": "light",
+      "theme": "dark",
+      "checked": 280,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c02/input-error",
+      "system": "light",
+      "theme": "light",
+      "checked": 280,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c03",
+      "system": "light",
+      "theme": "dark",
+      "checked": 304,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c03",
+      "system": "light",
+      "theme": "light",
+      "checked": 304,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c03/quiz-answer",
+      "system": "light",
+      "theme": "dark",
+      "checked": 307,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c03/quiz-answer",
+      "system": "light",
+      "theme": "light",
+      "checked": 307,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c03/input-error",
+      "system": "light",
+      "theme": "dark",
+      "checked": 286,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c03/input-error",
+      "system": "light",
+      "theme": "light",
+      "checked": 286,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c04",
+      "system": "light",
+      "theme": "dark",
+      "checked": 502,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c04",
+      "system": "light",
+      "theme": "light",
+      "checked": 502,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c04/quiz-answer",
+      "system": "light",
+      "theme": "dark",
+      "checked": 505,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c04/quiz-answer",
+      "system": "light",
+      "theme": "light",
+      "checked": 505,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c04/input-error",
+      "system": "light",
+      "theme": "dark",
+      "checked": 477,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c04/input-error",
+      "system": "light",
+      "theme": "light",
+      "checked": 477,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c05",
+      "system": "light",
+      "theme": "dark",
+      "checked": 290,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c05",
+      "system": "light",
+      "theme": "light",
+      "checked": 290,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c05/quiz-answer",
+      "system": "light",
+      "theme": "dark",
+      "checked": 291,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c05/quiz-answer",
+      "system": "light",
+      "theme": "light",
+      "checked": 291,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c05/input-error",
+      "system": "light",
+      "theme": "dark",
+      "checked": 279,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c05/input-error",
+      "system": "light",
+      "theme": "light",
+      "checked": 279,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c06",
+      "system": "light",
+      "theme": "dark",
+      "checked": 159,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c06",
+      "system": "light",
+      "theme": "light",
+      "checked": 159,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c06/quiz-answer",
+      "system": "light",
+      "theme": "dark",
+      "checked": 164,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c06/quiz-answer",
+      "system": "light",
+      "theme": "light",
+      "checked": 164,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c06/input-error",
+      "system": "light",
+      "theme": "dark",
+      "checked": 164,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c06/input-error",
+      "system": "light",
+      "theme": "light",
+      "checked": 164,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c07",
+      "system": "light",
+      "theme": "dark",
+      "checked": 256,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c07",
+      "system": "light",
+      "theme": "light",
+      "checked": 256,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c07/quiz-answer",
+      "system": "light",
+      "theme": "dark",
+      "checked": 257,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c07/quiz-answer",
+      "system": "light",
+      "theme": "light",
+      "checked": 257,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c07/input-error",
+      "system": "light",
+      "theme": "dark",
+      "checked": 233,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c07/input-error",
+      "system": "light",
+      "theme": "light",
+      "checked": 233,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c08",
+      "system": "light",
+      "theme": "dark",
+      "checked": 344,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c08",
+      "system": "light",
+      "theme": "light",
+      "checked": 344,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c08/quiz-answer",
+      "system": "light",
+      "theme": "dark",
+      "checked": 345,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c08/quiz-answer",
+      "system": "light",
+      "theme": "light",
+      "checked": 345,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c08/input-error",
+      "system": "light",
+      "theme": "dark",
+      "checked": 322,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c08/input-error",
+      "system": "light",
+      "theme": "light",
+      "checked": 322,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c09",
+      "system": "light",
+      "theme": "dark",
+      "checked": 664,
+      "min": 4.52037290710165,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c09",
+      "system": "light",
+      "theme": "light",
+      "checked": 664,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c09/quiz-answer",
+      "system": "light",
+      "theme": "dark",
+      "checked": 665,
+      "min": 4.52037290710165,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c09/quiz-answer",
+      "system": "light",
+      "theme": "light",
+      "checked": 665,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c09/input-error",
+      "system": "light",
+      "theme": "dark",
+      "checked": 655,
+      "min": 4.52037290710165,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c09/input-error",
+      "system": "light",
+      "theme": "light",
+      "checked": 655,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10",
+      "system": "light",
+      "theme": "dark",
+      "checked": 334,
+      "min": 4.93445699908922,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10",
+      "system": "light",
+      "theme": "light",
+      "checked": 334,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10/quiz-answer",
+      "system": "light",
+      "theme": "dark",
+      "checked": 335,
+      "min": 4.93445699908922,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10/quiz-answer",
+      "system": "light",
+      "theme": "light",
+      "checked": 335,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10/input-error",
+      "system": "light",
+      "theme": "dark",
+      "checked": 273,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10/input-error",
+      "system": "light",
+      "theme": "light",
+      "checked": 273,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10/selected-subfield",
+      "system": "light",
+      "theme": "dark",
+      "checked": 327,
+      "min": 4.93445699908922,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10/selected-subfield",
+      "system": "light",
+      "theme": "light",
+      "checked": 327,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c11",
+      "system": "light",
+      "theme": "dark",
+      "checked": 344,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c11",
+      "system": "light",
+      "theme": "light",
+      "checked": 344,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c11/quiz-answer",
+      "system": "light",
+      "theme": "dark",
+      "checked": 347,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c11/quiz-answer",
+      "system": "light",
+      "theme": "light",
+      "checked": 347,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c11/input-error",
+      "system": "light",
+      "theme": "dark",
+      "checked": 314,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c11/input-error",
+      "system": "light",
+      "theme": "light",
+      "checked": 314,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c12",
+      "system": "light",
+      "theme": "dark",
+      "checked": 266,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c12",
+      "system": "light",
+      "theme": "light",
+      "checked": 266,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c12/quiz-answer",
+      "system": "light",
+      "theme": "dark",
+      "checked": 267,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c12/quiz-answer",
+      "system": "light",
+      "theme": "light",
+      "checked": 267,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c12/input-error",
+      "system": "light",
+      "theme": "dark",
+      "checked": 244,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c12/input-error",
+      "system": "light",
+      "theme": "light",
+      "checked": 244,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c13",
+      "system": "light",
+      "theme": "dark",
+      "checked": 458,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c13",
+      "system": "light",
+      "theme": "light",
+      "checked": 458,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c13/quiz-answer",
+      "system": "light",
+      "theme": "dark",
+      "checked": 461,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c13/quiz-answer",
+      "system": "light",
+      "theme": "light",
+      "checked": 461,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c13/input-error",
+      "system": "light",
+      "theme": "dark",
+      "checked": 435,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c13/input-error",
+      "system": "light",
+      "theme": "light",
+      "checked": 435,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c14",
+      "system": "light",
+      "theme": "dark",
+      "checked": 245,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c14",
+      "system": "light",
+      "theme": "light",
+      "checked": 245,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c14/quiz-answer",
+      "system": "light",
+      "theme": "dark",
+      "checked": 246,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c14/quiz-answer",
+      "system": "light",
+      "theme": "light",
+      "checked": 246,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c14/input-error",
+      "system": "light",
+      "theme": "dark",
+      "checked": 224,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c14/input-error",
+      "system": "light",
+      "theme": "light",
+      "checked": 224,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c15",
+      "system": "light",
+      "theme": "dark",
+      "checked": 388,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c15",
+      "system": "light",
+      "theme": "light",
+      "checked": 388,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c15/quiz-answer",
+      "system": "light",
+      "theme": "dark",
+      "checked": 391,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c15/quiz-answer",
+      "system": "light",
+      "theme": "light",
+      "checked": 391,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c15/input-error",
+      "system": "light",
+      "theme": "dark",
+      "checked": 382,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c15/input-error",
+      "system": "light",
+      "theme": "light",
+      "checked": 382,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c16",
+      "system": "light",
+      "theme": "dark",
+      "checked": 482,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c16",
+      "system": "light",
+      "theme": "light",
+      "checked": 482,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c16/quiz-answer",
+      "system": "light",
+      "theme": "dark",
+      "checked": 483,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c16/quiz-answer",
+      "system": "light",
+      "theme": "light",
+      "checked": 483,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c16/input-error",
+      "system": "light",
+      "theme": "dark",
+      "checked": 419,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c16/input-error",
+      "system": "light",
+      "theme": "light",
+      "checked": 419,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c17",
+      "system": "light",
+      "theme": "dark",
+      "checked": 177,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c17",
+      "system": "light",
+      "theme": "light",
+      "checked": 177,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c17/quiz-answer",
+      "system": "light",
+      "theme": "dark",
+      "checked": 178,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c17/quiz-answer",
+      "system": "light",
+      "theme": "light",
+      "checked": 178,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c17/input-error",
+      "system": "light",
+      "theme": "dark",
+      "checked": 162,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c17/input-error",
+      "system": "light",
+      "theme": "light",
+      "checked": 162,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c18",
+      "system": "light",
+      "theme": "dark",
+      "checked": 285,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c18",
+      "system": "light",
+      "theme": "light",
+      "checked": 285,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c18/quiz-answer",
+      "system": "light",
+      "theme": "dark",
+      "checked": 288,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c18/quiz-answer",
+      "system": "light",
+      "theme": "light",
+      "checked": 288,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c18/input-error",
+      "system": "light",
+      "theme": "dark",
+      "checked": 272,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c18/input-error",
+      "system": "light",
+      "theme": "light",
+      "checked": 272,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c19",
+      "system": "light",
+      "theme": "dark",
+      "checked": 189,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c19",
+      "system": "light",
+      "theme": "light",
+      "checked": 189,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c19/quiz-answer",
+      "system": "light",
+      "theme": "dark",
+      "checked": 190,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c19/quiz-answer",
+      "system": "light",
+      "theme": "light",
+      "checked": 190,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c19/input-error",
+      "system": "light",
+      "theme": "dark",
+      "checked": 174,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c19/input-error",
+      "system": "light",
+      "theme": "light",
+      "checked": 174,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/source",
+      "system": "light",
+      "theme": "dark",
+      "checked": 146,
+      "min": 8.923888010096393,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/source",
+      "system": "light",
+      "theme": "light",
+      "checked": 146,
+      "min": 13.116860643909634,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/algorithms",
+      "system": "light",
+      "theme": "dark",
+      "checked": 1014,
+      "min": 5.716478703343015,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/algorithms",
+      "system": "light",
+      "theme": "light",
+      "checked": 1014,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/experiments",
+      "system": "light",
+      "theme": "dark",
+      "checked": 1582,
+      "min": 7.956703589116505,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/experiments",
+      "system": "light",
+      "theme": "light",
+      "checked": 1582,
+      "min": 6.765251839832702,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/references",
+      "system": "light",
+      "theme": "dark",
+      "checked": 98,
+      "min": 5.716478703343015,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/references",
+      "system": "light",
+      "theme": "light",
+      "checked": 98,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "knowledge",
+      "system": "light",
+      "theme": "dark",
+      "checked": 180,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "knowledge",
+      "system": "light",
+      "theme": "light",
+      "checked": 180,
+      "min": 5.691363274424097,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "knowledge/node-trace",
+      "system": "light",
+      "theme": "dark",
+      "checked": 262,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "knowledge/node-trace",
+      "system": "light",
+      "theme": "light",
+      "checked": 262,
+      "min": 5.691363274424097,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "knowledge/study",
+      "system": "light",
+      "theme": "dark",
+      "checked": 77,
+      "min": 5.691363274424097,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "knowledge/study",
+      "system": "light",
+      "theme": "light",
+      "checked": 77,
+      "min": 5.691363274424097,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "intro",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 47,
+      "min": 5.716478703343015,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "intro",
+      "system": "dark",
+      "theme": "light",
+      "checked": 47,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c01",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 761,
+      "min": 4.93445699908922,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c01",
+      "system": "dark",
+      "theme": "light",
+      "checked": 761,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c01/quiz-answer",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 762,
+      "min": 4.93445699908922,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c01/quiz-answer",
+      "system": "dark",
+      "theme": "light",
+      "checked": 762,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c01/reflection",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 762,
+      "min": 4.93445699908922,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c01/reflection",
+      "system": "dark",
+      "theme": "light",
+      "checked": 762,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c02",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 294,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c02",
+      "system": "dark",
+      "theme": "light",
+      "checked": 294,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c02/quiz-answer",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 295,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c02/quiz-answer",
+      "system": "dark",
+      "theme": "light",
+      "checked": 295,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c02/input-error",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 280,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c02/input-error",
+      "system": "dark",
+      "theme": "light",
+      "checked": 280,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c03",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 304,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c03",
+      "system": "dark",
+      "theme": "light",
+      "checked": 304,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c03/quiz-answer",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 307,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c03/quiz-answer",
+      "system": "dark",
+      "theme": "light",
+      "checked": 307,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c03/input-error",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 286,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c03/input-error",
+      "system": "dark",
+      "theme": "light",
+      "checked": 286,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c04",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 502,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c04",
+      "system": "dark",
+      "theme": "light",
+      "checked": 502,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c04/quiz-answer",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 505,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c04/quiz-answer",
+      "system": "dark",
+      "theme": "light",
+      "checked": 505,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c04/input-error",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 477,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c04/input-error",
+      "system": "dark",
+      "theme": "light",
+      "checked": 477,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c05",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 290,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c05",
+      "system": "dark",
+      "theme": "light",
+      "checked": 290,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c05/quiz-answer",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 291,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c05/quiz-answer",
+      "system": "dark",
+      "theme": "light",
+      "checked": 291,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c05/input-error",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 279,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c05/input-error",
+      "system": "dark",
+      "theme": "light",
+      "checked": 279,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c06",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 159,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c06",
+      "system": "dark",
+      "theme": "light",
+      "checked": 159,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c06/quiz-answer",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 164,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c06/quiz-answer",
+      "system": "dark",
+      "theme": "light",
+      "checked": 164,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c06/input-error",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 164,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c06/input-error",
+      "system": "dark",
+      "theme": "light",
+      "checked": 164,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c07",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 256,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c07",
+      "system": "dark",
+      "theme": "light",
+      "checked": 256,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c07/quiz-answer",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 257,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c07/quiz-answer",
+      "system": "dark",
+      "theme": "light",
+      "checked": 257,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c07/input-error",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 233,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c07/input-error",
+      "system": "dark",
+      "theme": "light",
+      "checked": 233,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c08",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 344,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c08",
+      "system": "dark",
+      "theme": "light",
+      "checked": 344,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c08/quiz-answer",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 345,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c08/quiz-answer",
+      "system": "dark",
+      "theme": "light",
+      "checked": 345,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c08/input-error",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 322,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c08/input-error",
+      "system": "dark",
+      "theme": "light",
+      "checked": 322,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c09",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 664,
+      "min": 4.52037290710165,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c09",
+      "system": "dark",
+      "theme": "light",
+      "checked": 664,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c09/quiz-answer",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 665,
+      "min": 4.52037290710165,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c09/quiz-answer",
+      "system": "dark",
+      "theme": "light",
+      "checked": 665,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c09/input-error",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 655,
+      "min": 4.52037290710165,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c09/input-error",
+      "system": "dark",
+      "theme": "light",
+      "checked": 655,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 334,
+      "min": 4.93445699908922,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10",
+      "system": "dark",
+      "theme": "light",
+      "checked": 334,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10/quiz-answer",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 335,
+      "min": 4.93445699908922,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10/quiz-answer",
+      "system": "dark",
+      "theme": "light",
+      "checked": 335,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10/input-error",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 273,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10/input-error",
+      "system": "dark",
+      "theme": "light",
+      "checked": 273,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10/selected-subfield",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 327,
+      "min": 4.93445699908922,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c10/selected-subfield",
+      "system": "dark",
+      "theme": "light",
+      "checked": 327,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c11",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 344,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c11",
+      "system": "dark",
+      "theme": "light",
+      "checked": 344,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c11/quiz-answer",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 347,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c11/quiz-answer",
+      "system": "dark",
+      "theme": "light",
+      "checked": 347,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c11/input-error",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 314,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c11/input-error",
+      "system": "dark",
+      "theme": "light",
+      "checked": 314,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c12",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 266,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c12",
+      "system": "dark",
+      "theme": "light",
+      "checked": 266,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c12/quiz-answer",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 267,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c12/quiz-answer",
+      "system": "dark",
+      "theme": "light",
+      "checked": 267,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c12/input-error",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 244,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c12/input-error",
+      "system": "dark",
+      "theme": "light",
+      "checked": 244,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c13",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 458,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c13",
+      "system": "dark",
+      "theme": "light",
+      "checked": 458,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c13/quiz-answer",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 461,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c13/quiz-answer",
+      "system": "dark",
+      "theme": "light",
+      "checked": 461,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c13/input-error",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 435,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c13/input-error",
+      "system": "dark",
+      "theme": "light",
+      "checked": 435,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c14",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 245,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c14",
+      "system": "dark",
+      "theme": "light",
+      "checked": 245,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c14/quiz-answer",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 246,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c14/quiz-answer",
+      "system": "dark",
+      "theme": "light",
+      "checked": 246,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c14/input-error",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 224,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c14/input-error",
+      "system": "dark",
+      "theme": "light",
+      "checked": 224,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c15",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 388,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c15",
+      "system": "dark",
+      "theme": "light",
+      "checked": 388,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c15/quiz-answer",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 391,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c15/quiz-answer",
+      "system": "dark",
+      "theme": "light",
+      "checked": 391,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c15/input-error",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 382,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c15/input-error",
+      "system": "dark",
+      "theme": "light",
+      "checked": 382,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c16",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 482,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c16",
+      "system": "dark",
+      "theme": "light",
+      "checked": 482,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c16/quiz-answer",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 483,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c16/quiz-answer",
+      "system": "dark",
+      "theme": "light",
+      "checked": 483,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c16/input-error",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 419,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c16/input-error",
+      "system": "dark",
+      "theme": "light",
+      "checked": 419,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c17",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 177,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c17",
+      "system": "dark",
+      "theme": "light",
+      "checked": 177,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c17/quiz-answer",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 178,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c17/quiz-answer",
+      "system": "dark",
+      "theme": "light",
+      "checked": 178,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c17/input-error",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 162,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c17/input-error",
+      "system": "dark",
+      "theme": "light",
+      "checked": 162,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c18",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 285,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c18",
+      "system": "dark",
+      "theme": "light",
+      "checked": 285,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c18/quiz-answer",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 288,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c18/quiz-answer",
+      "system": "dark",
+      "theme": "light",
+      "checked": 288,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c18/input-error",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 272,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c18/input-error",
+      "system": "dark",
+      "theme": "light",
+      "checked": 272,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c19",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 189,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c19",
+      "system": "dark",
+      "theme": "light",
+      "checked": 189,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c19/quiz-answer",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 190,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c19/quiz-answer",
+      "system": "dark",
+      "theme": "light",
+      "checked": 190,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c19/input-error",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 174,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "chapters/c19/input-error",
+      "system": "dark",
+      "theme": "light",
+      "checked": 174,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/source",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 146,
+      "min": 8.923888010096393,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/source",
+      "system": "dark",
+      "theme": "light",
+      "checked": 146,
+      "min": 13.116860643909634,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/algorithms",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 1014,
+      "min": 5.716478703343015,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/algorithms",
+      "system": "dark",
+      "theme": "light",
+      "checked": 1014,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/experiments",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 1582,
+      "min": 7.956703589116505,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/experiments",
+      "system": "dark",
+      "theme": "light",
+      "checked": 1582,
+      "min": 6.765251839832702,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/references",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 98,
+      "min": 5.716478703343015,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "appendices/references",
+      "system": "dark",
+      "theme": "light",
+      "checked": 98,
+      "min": 4.78455119452093,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "knowledge",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 180,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "knowledge",
+      "system": "dark",
+      "theme": "light",
+      "checked": 180,
+      "min": 5.691363274424097,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "knowledge/node-trace",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 262,
+      "min": 5.211014423336116,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "knowledge/node-trace",
+      "system": "dark",
+      "theme": "light",
+      "checked": 262,
+      "min": 5.691363274424097,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "knowledge/study",
+      "system": "dark",
+      "theme": "dark",
+      "checked": 77,
+      "min": 5.691363274424097,
+      "failures": [],
+      "groups": {}
+    },
+    {
+      "path": "knowledge/study",
+      "system": "dark",
+      "theme": "light",
+      "checked": 77,
+      "min": 5.691363274424097,
+      "failures": [],
+      "groups": {}
+    }
+  ],
+  "errors": []
+}

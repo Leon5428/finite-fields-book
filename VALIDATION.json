@@ -92,5 +92,67 @@
       "mobile",
       "dark mobile"
     ]
+  },
+  "proof_theme_review": {
+    "date": "2026-10-11",
+    "chapters": 19,
+    "themes": [
+      "light",
+      "dark"
+    ],
+    "system_color_schemes": [
+      "light",
+      "dark"
+    ],
+    "body_formula_link_minimum_contrast": 4.5,
+    "strict_build": "passed",
+    "mobile": "passed",
+    "visual_proof_review": "passed"
+  },
+  "whole_book_theme_review": {
+    "date": "2026-10-11",
+    "chapters": 19,
+    "includes": [
+      "intro",
+      "appendices",
+      "knowledge graph",
+      "learning dashboard"
+    ],
+    "page_theme_state_combinations": 264,
+    "measured_text_formula_control_instances": 94436,
+    "minimum_contrast": 4.52037290710165,
+    "low_contrast_failures": 0,
+    "browser_errors": [],
+    "strict_build": "passed",
+    "desktop_mobile_visual_review": "passed",
+    "states": [
+      "default",
+      "expanded notes and proofs",
+      "quiz answer",
+      "invalid input",
+      "square reflection",
+      "selected subfield",
+      "recorded learning progress"
+    ]
+  },
+  "sidebar_review": {
+    "date": "2026-10-11",
+    "strict_build": "passed",
+    "pages": 25,
+    "themes": 2,
+    "toggleCases": 98,
+    "touch": true,
+    "outsideClose": true,
+    "escapeClose": true,
+    "chapterNavigation": true,
+    "widths": [
+      320,
+      390,
+      768,
+      1280
+    ],
+    "resize": true,
+    "desktopCollapse": true,
+    "errors": []
   }
 }
