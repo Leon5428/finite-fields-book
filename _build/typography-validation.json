@@ -1,0 +1,12 @@
+{
+  "chapters": 19,
+  "spacedMathElements": 2021,
+  "gapEm": 0.18,
+  "punctuation": true,
+  "english": true,
+  "nestedMarkup": true,
+  "sourceWhitespaceNormalized": true,
+  "presentation": true,
+  "dynamicFeedback": true,
+  "errors": []
+}
